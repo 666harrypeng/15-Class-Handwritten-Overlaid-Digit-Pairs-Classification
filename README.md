@@ -18,4 +18,6 @@ The corresponding testset predictions are also put in each of the folders.
 
 Specifically, for pure-CNN and CNN-ResNet, they have their own training loss, loss curve, and model stucture.
 
-The highest and finalized submission was from CNN-ResNet model.
+The highest and finalized submission was from [CNN-ResNet model](https://github.com/666harrypeng/Handwritten-Digit-Pairs-Classification-by-Machine-Learning/tree/main/CNN-ResNet).
+
+The final MiniProject report can be found under [report](https://github.com/666harrypeng/Handwritten-Digit-Pairs-Classification-by-Machine-Learning/tree/main/report).
