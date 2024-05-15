@@ -1,10 +1,10 @@
 ---
-Project name: Handwritten Digit Pairs Classification
+Project name: 15-Class Handwritten Digit Pairs Classification
 Course: ECE4200-Fundamentals of Machine Learning (Cornell University SP24)
 Author: Yiyan Peng (yp449)
 ---
 
-# Handwritten Digit Pairs Classification by Machine Learning
+# 15-Class Handwritten Digit Pairs Classification by Machine Learning
 
 This is for ECE4200/5420-Fundamentals of Machine Learning final Mini-Project (Cornell University SP24)
 
