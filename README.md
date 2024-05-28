@@ -51,7 +51,7 @@ The final MiniProject report can be found under [report](https://github.com/666h
 
 ## License
 
-This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You may view the full license text [here]().
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You may view the full license text [here](https://github.com/666harrypeng/Handwritten-Digit-Pairs-Classification-by-Machine-Learning/blob/c39f06255f4413c6989dd070cec302b81c563f14/LICENSE).
 
 ### License Summary
 
