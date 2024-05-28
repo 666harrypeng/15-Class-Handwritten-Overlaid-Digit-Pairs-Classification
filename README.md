@@ -48,3 +48,13 @@ Specifically, for pure-CNN and CNN-ResNet, they have their own training loss, lo
 The highest and finalized submission was from [CNN-ResNet model](https://github.com/666harrypeng/Handwritten-Digit-Pairs-Classification-by-Machine-Learning/tree/main/CNN-ResNet).
 
 The final MiniProject report can be found under [report](https://github.com/666harrypeng/Handwritten-Digit-Pairs-Classification-by-Machine-Learning/tree/main/report).
+
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You may view the full license text [here]().
+
+### License Summary
+
+- **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **NonCommercial**: You may not use the material for commercial purposes.
+- **NoDerivatives**: If you remix, transform, or build upon the material, you may not distribute the modified material.
